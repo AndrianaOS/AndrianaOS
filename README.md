@@ -53,3 +53,17 @@ I am a Junior Full Stack Software Developer <img src="https://media.giphy.com/me
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </div>
 
+
+---
+
+### :fire: My Stats :
+
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndrianaOS&theme=light&background="white")](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrianaOS&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
+
