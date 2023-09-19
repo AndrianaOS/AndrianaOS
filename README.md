@@ -35,6 +35,8 @@ I am a Junior Full Stack Software Developer <img src="https://media.giphy.com/me
     
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Andriana_Saffo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andriana-saffo/)
 
+- 🌐 <a href="https://cv-portfolio.onrender.com/"> Check out my portfolio</a>
+
 
 ---
 
