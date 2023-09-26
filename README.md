@@ -75,7 +75,24 @@ I am a Junior Full Stack Software Developer <img src="https://media.giphy.com/me
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/><br />
       TypeScript
     </td>
-    <td align="center">
+   
+  <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/><br />
+      Python
+    </td>
+  </tr>
+</table>
+<table align="center">
+    <tr>
+          <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/><br />
+      Bootstrap
+    </td>
+      <td align="center">
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/><br />
+          Postman
+      </td>
+         <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/><br />
       Git
     </td>
@@ -83,11 +100,7 @@ I am a Junior Full Stack Software Developer <img src="https://media.giphy.com/me
       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/><br />
       Figma
     </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/><br />
-      Bootstrap
-    </td>
-  </tr>
+    </tr>
 </table>
 
 ---
