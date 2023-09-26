@@ -100,6 +100,10 @@ I am a Junior Full Stack Software Developer <img src="https://media.giphy.com/me
       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/><br />
       Figma
     </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" title="Slack" alt="Slack" width="40" height="40"/><br />
+      Slack
+    </td>
     </tr>
 </table>
 
