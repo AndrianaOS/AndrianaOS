@@ -113,9 +113,17 @@ I am a Junior Full Stack Software Developer <img src="https://media.giphy.com/me
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndrianaOS&theme=light&background="white")](https://git.io/streak-stats)
+<section>
+    <h3>
+        Top Languages/Framework
+    </h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrianaOS&layout=compact&theme=vision-friendly-light"" alt="GitHub Streak" />
+</section>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrianaOS&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+<section>
+    <img src="https://github-readme-stats.vercel.app/api?username=AndrianaOS&show_icons=true&theme=radical" alt="GitHub Stats" />
+</section>
+
 </div>
 
 
