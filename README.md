@@ -29,7 +29,7 @@ I am a Junior Full Stack Software Developer <img src="https://media.giphy.com/me
 
 - :zap: In my free time, I do Full-stack React projects and CodeWars.
 
-- :seedling: I’m currently learning TypeScript.
+- :seedling: I’m currently studying a Google backed Cybersecurity course.
 
 - :computer: At present, I am looking for a technology role. 
     
@@ -71,14 +71,13 @@ I am a Junior Full Stack Software Developer <img src="https://media.giphy.com/me
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/><br />
       PostgreSQL
     </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/><br />
-      TypeScript
-    </td>
-   
-  <td align="center">
+      <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/><br />
       Python
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask"  alt="Flask" width="40" height="40"/><br />
+      Flask
     </td>
   </tr>
 </table>
