@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ---
 
-### :woman_technologist: About Me :
+### 👩‍💻: About Me :
+
 
 I am a Junior Full Stack Software Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmV3azg3dWs1cHF3Z3o5Y2xzNXo4NThya2libWNsNG9wdGZrMmttaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWZhAI0/giphy.gif" width="50">.
 
@@ -40,7 +41,8 @@ I am a Junior Full Stack Software Developer <img src="https://media.giphy.com/me
 
 ---
 
-### :hammer_and_wrench: Languages, Libraries, Frameworks and Tools :
+### 🛠️: Languages, Libraries, Frameworks and Tools :
+
       
 <table align="center">
   <tr> <b>Frontend</b>
@@ -122,7 +124,8 @@ I am a Junior Full Stack Software Developer <img src="https://media.giphy.com/me
 
 ---
 
-### :fire: My Stats :
+### 🔥: My Stats :
+
 
 <div align="center">
 
