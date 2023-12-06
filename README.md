@@ -43,7 +43,7 @@ I am a Junior Full Stack Software Developer <img src="https://media.giphy.com/me
 ### :hammer_and_wrench: Languages, Libraries, Frameworks and Tools :
       
 <table align="center">
-  <tr>
+  <tr> <b>Frontend</b>
     <td align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/><br /> HTML
     </td>
@@ -60,6 +60,16 @@ I am a Junior Full Stack Software Developer <img src="https://media.giphy.com/me
       React.JS
     </td>
     <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MUI" alt="MUI" width="40" height="40"/><br />
+      MUI
+    </td>
+
+  </tr>
+</table>
+<table align="center">
+    <tr>
+        <b>Backend</b>
+        <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/><br />
       Node.JS
     </td>
@@ -79,7 +89,11 @@ I am a Junior Full Stack Software Developer <img src="https://media.giphy.com/me
       <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask"  alt="Flask" width="40" height="40"/><br />
       Flask
     </td>
-  </tr>
+        <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL"  alt="GraphQL" width="40" height="40"/><br />
+      GraphQL
+    </td>
+    </tr>
 </table>
 <table align="center">
     <tr>
