@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 ### 👩‍💻: About Me :
 
 
-I am a Junior Full Stack Software Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmV3azg3dWs1cHF3Z3o5Y2xzNXo4NThya2libWNsNG9wdGZrMmttaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWZhAI0/giphy.gif" width="50">.
-
-- :school: Full-stack trainee at CodeYourFuture <img src="https://codeyourfuture.io/wp-content/uploads/2019/03/cyf_brand.png" width="100"/>
+I am a Full Stack Software Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmV3azg3dWs1cHF3Z3o5Y2xzNXo4NThya2libWNsNG9wdGZrMmttaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWZhAI0/giphy.gif" width="50">.
 
 - :woman_scientist: I have a BSc in Forensic Science.
 
