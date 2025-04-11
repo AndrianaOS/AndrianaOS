@@ -29,8 +29,6 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/v1.
 - :zap: In my free time, I do Full-stack React projects and CodeWars.
 
 - :seedling: I’m currently studying a Google backed Cybersecurity course.
-
-- :computer: At present, I am looking for a technology role. 
     
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Andriana_Saffo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andriana-saffo/)
 
